@@ -1,0 +1,17 @@
+{
+  "name": "PyCharm",
+  "version": "2021.3.3",
+  "buildNumber": "213.7172.26",
+  "productCode": "PY",
+  "dataDirectoryName": "PyCharm2021.3",
+  "svgIconPath": "bin/pycharm.svg",
+  "launch": [
+    {
+      "os": "Windows",
+      "launcherPath": "bin/pycharm64.exe",
+      "javaExecutablePath": "jbr/bin/java.exe",
+      "vmOptionsFilePath": "bin/pycharm64.exe.vmoptions"
+    }
+  ],
+  "customProperties": []
+}
